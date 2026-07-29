@@ -232,40 +232,20 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 ## 📬 Let's Connect
 
 <table align="center">
+
 <tr>
-
-<td align="center" width="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/>
-</td>
-
-<td>
-<a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a>
-</td>
-
+<td><img src="https://img.icons8.com/color/48/gmail-new.png" width="24"></td>
+<td><a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a></td>
 </tr>
 
 <tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
-</td>
-
-<td>
-<a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a>
-</td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"></td>
+<td><a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a></td>
 </tr>
 
 <tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
-</td>
-
-<td>
-<a href="https://github.com/Jaya247">github.com/Jaya247</a>
-</td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"></td>
+<td><a href="https://github.com/Jaya247">github.com/Jaya247</a></td>
 </tr>
 
 </table>
