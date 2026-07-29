@@ -215,12 +215,32 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
   <img src="https://img.shields.io/badge/Data_Analysis-A855F7?style=flat-square&labelColor=2E1065" />
 </p>
 
+<br>
+
+<div align="center">
+
 ## 📬 Let's Connect
 
-📧 **jayamaurya247@gmail.com** &nbsp;|&nbsp; 💼 **[linkedin.com/in/jayamauryaa](https://linkedin.com/in/jayamauryaa)** &nbsp;|&nbsp; 🐙 **[github.com/Jaya247](https://github.com/Jaya247)**
+<a href="mailto:jayamaurya247@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/jayamauryaa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Jaya247" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=A855F7" />
+<br><br>
+
+💜 **Always learning, always building, and always growing.**
+
+🚀 *Open to internships, collaborations, and exciting opportunities in Software Development.*
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=A855F7"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:5b21b6,100:2e1065&height=100&section=footer" />
