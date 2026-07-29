@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jaya%20Maurya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python&descAlignY=56&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=Jaya%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20Intern%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Python%20Developer&descAlignY=54&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFB86C&center=true&vCenter=true&width=550&lines=Building+Full-Stack+Web+Applications;Python+%7C+Django+REST+Framework;MERN+Stack+Developer;Exploring+AI+%2F+Generative+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=550&lines=Building+Full-Stack+Web+Applications;Python+%7C+Django+REST+Framework;MERN+Stack+Developer;Exploring+AI+%2F+Generative+AI" />
+
+### 💭 *Turning ideas into scalable, real-world applications — one commit at a time.*
 
 <br>
 
@@ -65,20 +67,16 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaya247&show_icons=true&theme=dark&hide_border=true&bg_color=0f3460&title_color=FFB86C&icon_color=FFB86C&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya247&layout=compact&theme=dark&hide_border=true&bg_color=0f3460&title_color=FFB86C&text_color=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaya247&theme=dark&hide_border=true&background=0F3460&ring=FFB86C&fire=FFB86C&currStreakLabel=FFB86C" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaya247&show_icons=true&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=E879F9&icon_color=E879F9&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya247&layout=compact&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=E879F9&text_color=c9d1d9" width="48%" />
 </p>
 
 <br>
 
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaya247&theme=react-dark&bg_color=0f3460&color=FFB86C&line=FFB86C&point=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jaya247&theme=dark&hide_border=true&background=1E1B4B&ring=E879F9&fire=E879F9&currStreakLabel=E879F9" />
 </p>
 
 <br>
@@ -127,14 +125,14 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Google_Gemini-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Azure_AI-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Python-FFB86C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Data_Analysis-FFB86C?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Generative_AI-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Machine_Learning-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Google_Gemini-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Azure_AI-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Cybersecurity-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Python-E879F9?style=flat-square&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Data_Analysis-E879F9?style=flat-square&labelColor=1E1B4B" />
 </p>
 
 <br>
@@ -145,14 +143,12 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 📧 **jayamaurya247@gmail.com** &nbsp;|&nbsp; 💼 **[linkedin.com/in/jayamauryaa](https://linkedin.com/in/jayamauryaa)** &nbsp;|&nbsp; 🐙 **[github.com/Jaya247](https://github.com/Jaya247)**
 
-<img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=FFB86C" />
+<img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=E879F9" />
 
 <br><br>
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."*
 
 **Always learning. Always building. Always curious. 🚀**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=100&section=footer" />
