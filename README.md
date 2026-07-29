@@ -68,8 +68,8 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaya247&show_icons=true&theme=dark&hide_border=true&bg_color=2e1065&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya247&layout=compact&theme=dark&hide_border=true&bg_color=2e1065&title_color=A855F7&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra.workers.dev/api?username=Jaya247&show_icons=true&theme=dark&hide_border=true&bg_color=2e1065&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra.workers.dev/api/top-langs/?username=Jaya247&layout=compact&theme=dark&hide_border=true&bg_color=2e1065&title_color=A855F7&text_color=c9d1d9" width="48%" />
 </p>
 
 <br>
