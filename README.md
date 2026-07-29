@@ -94,83 +94,52 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 <table>
 <tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/google/A855F7" width="30"/></td>
-<td>
+<td width="50%" valign="top">
 
-**[Google AI Essentials](https://coursera.org/verify/specialization/GIPNLC7WQMYI)**  
-Google · Jul 2026
-
-</td>
+<table>
+<tr>
+<td align="center" width="50"><img src="https://cdn.simpleicons.org/google/4285F4" width="28"/></td>
+<td><b><a href="https://coursera.org/verify/specialization/GIPNLC7WQMYI">Google AI Essentials</a></b><br><sub>Issued by Google · Jul 2026</sub></td>
 </tr>
 <tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="30"/></td>
-<td>
-
-**TCS iON Career Edge – Generative AI Essentials**  
-TCS iON · May 2026 · Credential ID: 8766-28698485-1016
-
-</td>
+<td align="center" width="50">🎓</td>
+<td><b>TCS iON Career Edge – Generative AI Essentials</b><br><sub>Issued by TCS iON · May 2026</sub></td>
 </tr>
 <tr>
-<td align="center" width="60">🏅</td>
-<td>
-
-**AI For All**  
-Tata Consultancy Services (TCS) · 2026
-
-</td>
+<td align="center" width="50">🏅</td>
+<td><b>AI For All</b><br><sub>Issued by Tata Consultancy Services · 2026</sub></td>
 </tr>
 <tr>
-<td align="center" width="60">🏅</td>
-<td>
-
-**AI and Cybersecurity Awareness**  
-Tata Consultancy Services · Apr 2026 · Credential ID: 8770-28698485-1016
+<td align="center" width="50">🔐</td>
+<td><b>AI and Cybersecurity Awareness</b><br><sub>Issued by Tata Consultancy Services · Apr 2026</sub></td>
+</tr>
+</table>
 
 </td>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td align="center" width="50"><img src="https://cdn.simpleicons.org/microsoft/00A4EF" width="28"/></td>
+<td><b>Plan and Prepare to Develop AI Solutions on Azure</b><br><sub>Issued by Microsoft · Jul 2025</sub></td>
 </tr>
 <tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/microsoftazure/A855F7" width="30"/></td>
-<td>
-
-**Plan and Prepare to Develop AI Solutions on Azure**  
-Microsoft · Jul 2025
-
-</td>
+<td align="center" width="50">🎓</td>
+<td><b>TCS iON Career Edge – Young Professional</b><br><sub>Issued by Tata Consultancy Services · 2025</sub></td>
 </tr>
 <tr>
-<td align="center" width="60">🏅</td>
-<td>
-
-**TCS iON Career Edge – Young Professional**  
-Tata Consultancy Services · 2025
-
-</td>
+<td align="center" width="50"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="28"/></td>
+<td><b>Introduction to Generative AI</b><br><sub>Issued by Google Cloud Skills Boost · Oct 2024</sub></td>
 </tr>
 <tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="30"/></td>
-<td>
-
-**Introduction to Generative AI**  
-Google Cloud Skills Boost · Oct 2024
-
-</td>
+<td align="center" width="50"><img src="https://cdn.simpleicons.org/ibm/052FAD" width="28"/></td>
+<td><b>Data Analysis with Python</b><br><sub>Issued by IBM (Cognitive Class.ai) · May 2024</sub></td>
 </tr>
 <tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/ibm/A855F7" width="30"/></td>
-<td>
-
-**Data Analysis with Python**  
-IBM (Cognitive Class.ai) · May 2024
-
-</td>
+<td align="center" width="50"><img src="https://cdn.simpleicons.org/ibm/052FAD" width="28"/></td>
+<td><b>Web Development Basics</b><br><sub>Issued by IBM SkillsBuild · Nov 2023</sub></td>
 </tr>
-<tr>
-<td align="center" width="60"><img src="https://cdn.simpleicons.org/ibm/A855F7" width="30"/></td>
-<td>
-
-**Web Development Basics**  
-IBM SkillsBuild · Nov 2023
+</table>
 
 </td>
 </tr>
@@ -185,11 +154,6 @@ IBM SkillsBuild · Nov 2023
   <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&labelColor=2E1065" />
   <img src="https://img.shields.io/badge/Data_Analysis-A855F7?style=flat-square&labelColor=2E1065" />
 </p>
-
-<br>
-
-<div align="center">
-
 ## 📬 Let's Connect
 
 📧 **jayamaurya247@gmail.com** &nbsp;|&nbsp; 💼 **[linkedin.com/in/jayamauryaa](https://linkedin.com/in/jayamauryaa)** &nbsp;|&nbsp; 🐙 **[github.com/Jaya247](https://github.com/Jaya247)**
