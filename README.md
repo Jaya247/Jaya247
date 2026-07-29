@@ -227,28 +227,39 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 <div align="center">
 
-## 📬 Let's Connect
+<div align="center">
+
+# 📬 Let's Connect
 
 <a href="mailto:jayamaurya247@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/jayamauryaa">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Jaya247">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<h3>💜 Building scalable applications with clean code and continuous learning.</h3>
+📧 **Email:** <a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a>
 
-<p>
-🚀 Open to <b>Software Development Internships</b>, <b>Full-Stack Development</b>,
-<b>Open Source Contributions</b>, and exciting collaborations.
-</p>
+💼 **LinkedIn:** <a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a>
+
+🐙 **GitHub:** <a href="https://github.com/Jaya247">github.com/Jaya247</a>
+
+<br>
+
+### 💜 Building impactful software with clean code, creativity, and continuous learning.
+
+### 🚀 Passionate about Full-Stack Development, Python, AI, and creating real-world solutions.
+
+### 🌱 Always learning • Always building • Always improving
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=A855F7"/>
 
