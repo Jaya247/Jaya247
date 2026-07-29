@@ -229,38 +229,53 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 <div align="center">
 
-# 📬 Let's Connect
+## 📬 Let's Connect
 
-<a href="mailto:jayamaurya247@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<table align="center">
+<tr>
 
-<a href="https://linkedin.com/in/jayamauryaa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<td align="center" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/>
+</td>
 
-<a href="https://github.com/Jaya247">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<td>
+<a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a>
+</td>
 
-<br><br>
+</tr>
 
-📧 **Email:** <a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a>
+<tr>
 
-💼 **LinkedIn:** <a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+</td>
 
-🐙 **GitHub:** <a href="https://github.com/Jaya247">github.com/Jaya247</a>
+<td>
+<a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+</td>
+
+<td>
+<a href="https://github.com/Jaya247">github.com/Jaya247</a>
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-### 💜 Building impactful software with clean code, creativity, and continuous learning.
+<div align="center">
 
-### 🚀 Passionate about Full-Stack Development, Python, AI, and creating real-world solutions.
+💜 **Building scalable applications with clean code and continuous learning.**
 
-### 🌱 Always learning • Always building • Always improving
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=A855F7"/>
+🚀 **Open to Software Development Internships, Full-Stack Development, Open Source Contributions, and exciting collaborations.**
 
 </div>
