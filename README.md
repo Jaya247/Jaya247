@@ -170,7 +170,7 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 <tr>
 <td align="center" width="50">
-<img src="./assets/logos/googlecloud.png" width="32" alt="Google Cloud"/>
+<img src="./assets/logos/cloud.png" width="32" alt="Google Cloud"/>
 </td>
 <td>
 <b>Introduction to Generative AI</b><br>
