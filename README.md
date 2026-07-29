@@ -77,7 +77,7 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak-stats?user=Jaya247&theme=dark&hide_border=true&background=2E1065&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img src="https://streak-stats.demolab.com?user=Jaya247&theme=dark&hide_border=true&background=2E1065&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 </p>
 
 <br>
@@ -92,31 +92,85 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 ## 📜 Certifications
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/google/A855F7" width="30"/></td>
+<td>
 
-### 🤖 AI & Generative AI
-
-| | |
-|---|---|
-| 🏆 | **[Google AI Essentials](https://coursera.org/verify/specialization/GIPNLC7WQMYI)** <br> `Google` · Jul 2026 |
-| 🏆 | **TCS iON Career Edge – GenAI Essentials** <br> `TCS iON` · May 2026 |
-| 🏆 | **AI For All** <br> `TCS` · 2026 |
-| 🏆 | **AI Solutions on Azure** <br> `Microsoft` · Jul 2025 |
-| 🏆 | **Introduction to Generative AI** <br> `Google Cloud` · Oct 2024 |
+**[Google AI Essentials](https://coursera.org/verify/specialization/GIPNLC7WQMYI)**  
+Google · Jul 2026
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="30"/></td>
+<td>
 
-### 💻 Development & Data
+**TCS iON Career Edge – Generative AI Essentials**  
+TCS iON · May 2026 · Credential ID: 8766-28698485-1016
 
-| | |
-|---|---|
-| 🏆 | **AI and Cybersecurity Awareness** <br> `TCS` · Apr 2026 |
-| 🏆 | **TCS iON Career Edge – Young Professional** <br> `TCS` · 2025 |
-| 🏆 | **Data Analysis with Python** <br> `IBM` · May 2024 |
-| 🏆 | **Web Development Basics** <br> `IBM SkillsBuild` · Nov 2023 |
+</td>
+</tr>
+<tr>
+<td align="center" width="60">🏅</td>
+<td>
+
+**AI For All**  
+Tata Consultancy Services (TCS) · 2026
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60">🏅</td>
+<td>
+
+**AI and Cybersecurity Awareness**  
+Tata Consultancy Services · Apr 2026 · Credential ID: 8770-28698485-1016
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/microsoftazure/A855F7" width="30"/></td>
+<td>
+
+**Plan and Prepare to Develop AI Solutions on Azure**  
+Microsoft · Jul 2025
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60">🏅</td>
+<td>
+
+**TCS iON Career Edge – Young Professional**  
+Tata Consultancy Services · 2025
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="30"/></td>
+<td>
+
+**Introduction to Generative AI**  
+Google Cloud Skills Boost · Oct 2024
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/ibm/A855F7" width="30"/></td>
+<td>
+
+**Data Analysis with Python**  
+IBM (Cognitive Class.ai) · May 2024
+
+</td>
+</tr>
+<tr>
+<td align="center" width="60"><img src="https://cdn.simpleicons.org/ibm/A855F7" width="30"/></td>
+<td>
+
+**Web Development Basics**  
+IBM SkillsBuild · Nov 2023
 
 </td>
 </tr>
