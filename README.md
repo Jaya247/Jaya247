@@ -219,28 +219,40 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 <div align="center">
 
-## 📬 Let's Connect
+<br>
+
+<div align="center">
+
+# 📬 Let's Connect
 
 <a href="mailto:jayamaurya247@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/jayamauryaa" target="_blank">
+<a href="https://linkedin.com/in/jayamauryaa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Jaya247" target="_blank">
+<a href="https://github.com/Jaya247">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-💜 **Always learning, always building, and always growing.**
+### 💜 Building scalable applications with clean code and continuous learning.
 
-🚀 *Open to internships, collaborations, and exciting opportunities in Software Development.*
+🚀 **Open to Software Development Internships, Full-Stack Development opportunities, Open Source contributions, and exciting collaborations.**
 
-<br><br>
+📧 **Email:** <a href="mailto:jayamaurya247@gmail.com">jayamaurya247@gmail.com</a>
+
+💼 **LinkedIn:** <a href="https://linkedin.com/in/jayamauryaa">linkedin.com/in/jayamauryaa</a>
+
+🐙 **GitHub:** <a href="https://github.com/Jaya247">github.com/Jaya247</a>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Jaya247&style=for-the-badge&color=A855F7"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:5b21b6,100:2e1065&height=100&section=footer"/>
