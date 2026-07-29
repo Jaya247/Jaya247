@@ -77,7 +77,7 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaya247&theme=dark&hide_border=true&background=2E1065&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak-stats?user=Jaya247&theme=dark&hide_border=true&background=2E1065&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 </p>
 
 <br>
@@ -92,34 +92,31 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
 
 ## 📜 Certifications
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Generative AI
-- 🏅 **[Google AI Essentials](https://coursera.org/verify/specialization/GIPNLC7WQMYI)**  
-  *Google · Jul 2026*
-- 🏅 **TCS iON Career Edge – Generative AI Essentials**  
-  *TCS iON · May 2026*
-- 🏅 **AI For All**  
-  *Tata Consultancy Services · 2026*
-- 🏅 **Plan and Prepare to Develop AI Solutions on Azure**  
-  *Microsoft · Jul 2025*
-- 🏅 **Introduction to Generative AI**  
-  *Google Cloud Skills Boost · Oct 2024*
+
+| | |
+|---|---|
+| 🏆 | **[Google AI Essentials](https://coursera.org/verify/specialization/GIPNLC7WQMYI)** <br> `Google` · Jul 2026 |
+| 🏆 | **TCS iON Career Edge – GenAI Essentials** <br> `TCS iON` · May 2026 |
+| 🏆 | **AI For All** <br> `TCS` · 2026 |
+| 🏆 | **AI Solutions on Azure** <br> `Microsoft` · Jul 2025 |
+| 🏆 | **Introduction to Generative AI** <br> `Google Cloud` · Oct 2024 |
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Development & Data
-- 🏅 **AI and Cybersecurity Awareness**  
-  *Tata Consultancy Services · Apr 2026*
-- 🏅 **TCS iON Career Edge – Young Professional**  
-  *Tata Consultancy Services · 2025*
-- 🏅 **Data Analysis with Python**  
-  *IBM (Cognitive Class.ai) · May 2024*
-- 🏅 **Web Development Basics**  
-  *IBM SkillsBuild · Nov 2023*
+
+| | |
+|---|---|
+| 🏆 | **AI and Cybersecurity Awareness** <br> `TCS` · Apr 2026 |
+| 🏆 | **TCS iON Career Edge – Young Professional** <br> `TCS` · 2025 |
+| 🏆 | **Data Analysis with Python** <br> `IBM` · May 2024 |
+| 🏆 | **Web Development Basics** <br> `IBM SkillsBuild` · Nov 2023 |
 
 </td>
 </tr>
@@ -129,6 +126,8 @@ Real-time CRUD task app with async API integration, no page reloads, and CI/CD f
   <img src="https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square&labelColor=2E1065" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=flat-square&labelColor=2E1065" />
   <img src="https://img.shields.io/badge/Machine_Learning-A855F7?style=flat-square&labelColor=2E1065" />
+  <img src="https://img.shields.io/badge/Azure_AI-A855F7?style=flat-square&labelColor=2E1065" />
+  <img src="https://img.shields.io/badge/Cybersecurity-A855F7?style=flat-square&labelColor=2E1065" />
   <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&labelColor=2E1065" />
   <img src="https://img.shields.io/badge/Data_Analysis-A855F7?style=flat-square&labelColor=2E1065" />
 </p>
