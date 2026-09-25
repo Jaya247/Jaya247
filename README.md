@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:8b5cf6&height=200&section=header&text=Jaya%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20Intern%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Python%20Developer&descAlignY=54&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:8b5cf6&height=200&section=header&text=Jaya%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20Intern%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Python%20Developer%20%7C%20Data%20Analytics&descAlignY=54&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Python+%7C+Django+REST+Framework;MERN+Stack+Developer;Exploring+AI+%2F+Generative+AI;Turning+ideas+into+real-world+apps+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications;Full+Stack+Developer+%7C+MERN+Stack;Python+%7C+Django+REST+Framework;Data+Analytics+%7C+Python+%7C+SQL;Exploring+AI+%2F+Generative+AI;Turning+ideas+into+real-world+apps+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://linkedin.com/in/jayamauryaa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/Jaya247">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:jayamaurya247@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
