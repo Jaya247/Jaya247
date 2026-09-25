@@ -31,9 +31,7 @@
 - 📍 Lucknow, Uttar Pradesh, India
 
 <br>
-
 <br>
-
 ## 💼 Experience
 
 ### 🎓 Full Stack Development Training — GRASTech
@@ -47,8 +45,8 @@
 **BBD University, Lucknow | SEPTEMBER 2026**
 
 - Completed training focused on **Data Analytics and employability skills**.
-- Developed understanding of **data analysis, databases, SQL and analytical problem-solving**.
-- Completed **20-hour Soft Skills Training** as part of the program.
+- Developed understanding of **AZURE**, **Power BI**, **data analysis, databases, SQL and analytical problem-solving**.
+- Completed **20-hour Soft Skills Training** & **80-hour Technical Training** as part of the program.
 
 <br>
 
