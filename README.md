@@ -44,7 +44,7 @@
 - Gained hands-on experience with **MERN stack, REST APIs, databases and Git/GitHub**.
 
 ### 📊 Data Analytics Training — Infosys Foundation / ICT Academy
-**BBD University, Lucknow | SPETEMBER 2026**
+**BBD University, Lucknow | SEPTEMBER 2026**
 
 - Completed training focused on **Data Analytics and employability skills**.
 - Developed understanding of **data analysis, databases, SQL and analytical problem-solving**.
