@@ -32,6 +32,26 @@
 
 <br>
 
+<br>
+
+## 💼 Experience
+
+### 🎓 Full Stack Development Training — GRASTech
+**BBD University, Lucknow | JUNE 2026- JULY 2026**
+
+- Completed **90-hour project-based training** in Full Stack Development.
+- Worked on practical web development projects using frontend and backend technologies.
+- Gained hands-on experience with **MERN stack, REST APIs, databases and Git/GitHub**.
+
+### 📊 Data Analytics Training — Infosys Foundation / ICT Academy
+**BBD University, Lucknow | SPETEMBER 2026**
+
+- Completed training focused on **Data Analytics and employability skills**.
+- Developed understanding of **data analysis, databases, SQL and analytical problem-solving**.
+- Completed **20-hour Soft Skills Training** as part of the program.
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
