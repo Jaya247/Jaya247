@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
                     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:8b5cf6&height=200&section=header&text=Jaya%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20Intern%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Python%20Developer%20%7C%20Data%20Analytics&descAlignY=54&descSize=15" />
 
