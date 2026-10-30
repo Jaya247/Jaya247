@@ -1,5 +1,5 @@
 <div align="center">
-
+                    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:8b5cf6&height=200&section=header&text=Jaya%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20Intern%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Python%20Developer%20%7C%20Data%20Analytics&descAlignY=54&descSize=15" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications;Full+Stack+Developer+%7C+MERN+Stack;Python+%7C+Django+REST+Framework;Data+Analytics+%7C+Python+%7C+SQL;Exploring+AI+%2F+Generative+AI;Turning+ideas+into+real-world+apps+%F0%9F%9A%80" />
